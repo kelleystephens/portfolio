@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(http://fonts.googleapis.com/css?family=Arbutus);
+
+body {
+  background-image: url("images/flowers_bkgd.png");
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0 0 30px 0;
+  padding: 0;
+  text-align: center;
+}
+
+.nav {
+  text-decoration: none;
+  font-family: 'Arbutus', cursive;
+  padding: 30px;
+}
+
+li {
+  display: inline;
+}
+
+h1 {
+  color: #F4D1C9;
+  background-color: #56393D;
+  font-family: 'Shadows Into Light', cursive;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  width: 80%;
+  margin: auto;
+  border-radius: 7px;
+}
+
+h3 {
+  border: 2px solid #56393D;
+  padding: 5px;
+  background-color: rgba(244,209,201,.5 );
+  opacity: 0.7;
+  color: #56393D;
+  border-radius: 10px;
+  font-family: 'Arbutus', cursive;
+  text-align: center;
+  margin: 30px 20%;
+  clear: both;
+}
+
+table {
+  margin: auto;
+  width: 80%;
+  align: center;
+  text-align: center;
+  border-spacing: 30px 30px 10px 30px;
+}
+
+.headers {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  height: 60px;
+}
+
+a {
+  color: #BB7B67;
+  text-weight: bold;
+}
+
+a:hover {
+  text-shadow: 1px 1px #8C5C4C;
+}
+
+a:visited {
+  color: #BB7B67;
+  text-weight: bold;
+}
+
+.preview {
+  height: 200px;
+  background-image: url('images/comingsoon.jpg');
+  background-size: 80% 80%;
+  background-repeat:no-repeat;
+  background-position: center;
+}
+
+#simplecalc {
+  background-image: url('images/simple-calc.png');
+}
+
+.repo {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+  color: #BB7B67;
+  height: 30px;
+  text-decoration: none;
+}
