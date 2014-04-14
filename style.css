@@ -89,6 +89,10 @@ a:visited {
   background-image: url('images/simple-calc.png');
 }
 
+#supercalc {
+  background-image: url('images/super-calc.png');
+}
+
 .repo {
   font-family: 'Shadows Into Light', cursive;
   font-size: 20px;
