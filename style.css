@@ -101,6 +101,10 @@ a:visited {
   background-image: url('images/weather_map.png');
 }
 
+#timer {
+  background-image: url('images/timer.png');
+}
+
 .repo {
   font-family: 'Shadows Into Light', cursive;
   font-size: 20px;
